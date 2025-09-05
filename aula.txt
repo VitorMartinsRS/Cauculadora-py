@@ -1,8 +1,0 @@
-#Aula 01 - Python
-+ Comentario no python é "#"
-+ sep significa separador
-+ end coloca no final 
-+ /n quebra de linha 
-+ \para caracter de escape
-+ nn se concatena types str com int
-+ 
